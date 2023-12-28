@@ -1,4 +1,4 @@
-// Write a program to print "Techer's Day" on the screen. (Remember to print in double quotes)
+// Write a program to print "Teacher's Day" on the screen. (Remember to print in double quotes)
 
 #include <stdio.h>
 int main(){
