@@ -1,4 +1,4 @@
-// WAP to print "MySirgG" on the screen. (Remember to print in double quotes)
+// WAP to print "MySirG" on the screen. (Remember to print in double quotes)
 
 #include <stdio.h>
 int main(){
