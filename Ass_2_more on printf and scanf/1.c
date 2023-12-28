@@ -1,4 +1,4 @@
-// WAP program to calculate average of three integers. Numbers are given by the user.
+// WAP to calculate average of three integers. Numbers are given by the user.
 
 #include<stdio.h>
 int main(){
